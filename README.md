@@ -1,1 +1,1 @@
-# flappybird
+# flappygame
